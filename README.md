@@ -1,4 +1,4 @@
-# MYSG 2K26
+# BUDGEVAC
 
 Application de gestion de voyage construite avec React (Vite) pour le frontend et Node.js (Express/Sequelize) pour le backend.
 
